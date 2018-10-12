@@ -1,5 +1,5 @@
 # updateDatapowerFirmware
-This is a shell script to automatically update Datapower Firmware from a central repository
+This is a shell script to automatically update Datapower Firmware from a central linux server repository.  You will need a linux server that can run bash shell scripts, the firmware update file from IBM, and Datapower appliance(s).
 
 ./updateDatapowerFirmware.sh $1 $2
 
